@@ -1,2 +1,3 @@
 # minecraft_mods
-This is the repository that will hold majority of the minecraft mods that I develop.
+### This Repo will hold all/any minecraft mods I create. 
+Dev branch will contain those in development.
